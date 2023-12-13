@@ -9,11 +9,6 @@ Key findings indicate that otaku culture significantly impacts consumer behavior
 
 Providing insights for game developers and marketers navigating the otaku marketplace.
 
+![revenue](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/184775cf-9c5a-4512-9347-c4a7fc05940e)
 
-[revenue.pdf](https://github.com/NianAnny/mobile-RPG-observation/files/13658521/revenue.pdf)
-
-[download.pdf](https://github.com/NianAnny/mobile-RPG-observation/files/13658507/download.pdf)
-
-[multicolinearity.pdf](https://github.com/NianAnny/mobile-RPG-observation/files/13658525/multicolinearity.pdf)
-
-[Variable Matrix.pdf](https://github.com/NianAnny/mobile-RPG-observation/files/13658527/Variable.Matrix.pdf)
+![download](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/7cc1c567-3d34-4b5a-a1ed-a6d1c4e22610)
