@@ -11,4 +11,4 @@ Providing insights for game developers and marketers navigating the otaku market
 
 ![download](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/7cc1c567-3d34-4b5a-a1ed-a6d1c4e22610)
 
-![Results](https://github.com/NianAnny/mobile-RPG-observation/Poster%20pictures/results.png)
+![results](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/161a11ba-de92-4ef2-9726-eb7a5954bbe1)
