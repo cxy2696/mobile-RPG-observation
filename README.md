@@ -1,5 +1,5 @@
 # mobile-RPG-observation
-Thesis work (incomplete)
+Thesis work
 
 Does the proliferation of otaku culture significantly influence the popularity and adoption of RPG mobile games in the modern age? 
 
@@ -10,3 +10,5 @@ Providing insights for game developers and marketers navigating the otaku market
 ![revenue](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/184775cf-9c5a-4512-9347-c4a7fc05940e)
 
 ![download](https://github.com/NianAnny/mobile-RPG-observation/assets/93075691/7cc1c567-3d34-4b5a-a1ed-a6d1c4e22610)
+
+![Results](https://github.com/NianAnny/mobile-RPG-observation/Poster%20pictures/results.png)
